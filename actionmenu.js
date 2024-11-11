@@ -12,6 +12,4 @@ btnReg.addEventListener('click', () => {
         btnReg.innerText = "Registre-se";
         titleOverlayer.innerText = "Olá, Não tem Conta Ainda ?"
     }
-
-    
 });
