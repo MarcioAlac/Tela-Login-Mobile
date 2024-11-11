@@ -91,7 +91,7 @@ body
 
 /*---------------------------- OVERLAY CHANNEL -----------------------------*/
 
-.overlay
+.overlay-box
 {
     position: absolute;
     top: var(--overlay-p-f);

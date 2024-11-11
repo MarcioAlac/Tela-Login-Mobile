@@ -1,5 +1,5 @@
 const btnReg = document.querySelector('.btn-reg');
-const overlay = document.querySelector('.overlay');
+const overlay = document.querySelector('.overlay-box');
 const titleOverlayer = document.querySelector('.overlay-content h1');
 
 btnReg.addEventListener('click', () => {
